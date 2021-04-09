@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.exe
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.deps.json
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.dll
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\bin\Debug\netcoreapp3.1\libraryApp.pdb
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.Login.resources
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.dll
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.pdb
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.Abonat.resources
+C:\Users\Administrator\source\repos\libraryApp\libraryApp\obj\Debug\netcoreapp3.1\libraryApp.Bibliotecar.resources
